@@ -26,6 +26,7 @@ Include the neural network model diagram.
 ### Name:SACHIN M
 
 ### Register Number: 212223040177
+```
 import torch as t
 import torch.nn as nn
 import torch.optim as optim
